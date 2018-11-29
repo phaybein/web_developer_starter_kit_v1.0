@@ -1,0 +1,11 @@
+header {
+  background: pink; }
+
+body {
+  background: purple;
+  color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+
+/*# sourceMappingURL=maps/main.css.map */
